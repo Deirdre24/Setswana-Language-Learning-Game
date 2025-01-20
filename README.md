@@ -4,10 +4,9 @@ This repository contains a Python-based language learning game designed to help 
 
 ## Features
 
-Interactive Gameplay: Engaging exercises to test and improve Setswana language skills.
-Dynamic Content: The game reads from text files containing Setswana verb and noun phrases, making it easy to update and expand the vocabulary.
-
-Beginner-Friendly: Simple and intuitive design suitable for learners at any level.
+- Interactive Gameplay: Engaging exercises to test and improve Setswana language skills.
+- Dynamic Content: The game reads from text files containing Setswana verb and noun phrases, making it easy to update and expand the vocabulary.
+- Beginner-Friendly: Simple and intuitive design suitable for learners at any level.
 
 ## Repository Structure
 
@@ -43,21 +42,47 @@ Follow the prompts to start learning Setswana!
 
 ## How It Works
 
-The game randomly selects verbs and noun phrases from the verbs.txt and noun_phrases.txt files.
+Ngwana Ithute is a Setswana learning game crafted as an innovative and engaging tool for early childhood learners. The game transforms Setswana learning into an adventure for Kindergarten students by merging education with enjoyment.
 
-Users are prompted with exercises, such as matching, fill-in-the-blank, or translation tasks.
+## Objectives
 
-Feedback is provided immediately to aid in learning.
+Immerse students in Setswana, fostering language engagement, vocabulary acquisition, and sentence construction.
 
-Customizing the Game
+Teach sentence structure in a playful environment, encouraging exploration and creativity.
+
+Spark curiosity and positive attitudes toward language learning through increasingly challenging levels.
+
+## Game Mechanics
+
+The game uses the following mechanics to reinforce Setswana learning concepts:
+
+Sentence Construction: Players interact with placeholders for noun phrases and verb phrases provided in two text files (verbs.txt and noun_phrases.txt). These placeholders are combined to create grammatically correct sentences using the generate_sentence() function, which filters phrases based on Setswana grammar rules.
+
+Hangman Mechanism: Sentence templates with hidden words (underscores) challenge players to guess missing words, improving vocabulary and sentence familiarity.
+
+Rearranging Shuffled Sentences: In advanced levels, players rearrange shuffled sentences, leveraging their understanding of basic Setswana sentence structure.
+
+## Interactive Features
+
+Players are prompted to enter their name at the start, personalizing feedback and congratulatory messages.
+
+Visual elements such as smileys :) 😊 and :( ☹, as well as ^0^, mimic graphics that appeal to children.
+
+A timer and point system add excitement and track progress.
+
+## Randomized Sentence Generation
+
+The generate_sentence() function ensures that sentences make sense grammatically by combining phrases based on Setswana grammar rules. It uses noun and verb markers to validate sentence combinations and randomizes content for variety.
+
+## Customizing the Game
 
 Updating Vocabulary
 
 You can expand the vocabulary by editing the verbs.txt and noun_phrases.txt files:
 
-verbs.txt: Add one verb per line.
+``: Add one verb per line.
 
-noun_phrases.txt: Add one noun phrase per line.
+``: Add one noun phrase per line.
 
 Ensure that the text files follow the same format to avoid errors.
 
