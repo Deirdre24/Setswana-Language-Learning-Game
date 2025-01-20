@@ -28,7 +28,7 @@ The game uses only standard Python libraries, so no additional installations are
 
 Clone this repository:
 
-git clone https://github.com/yourusername/setswana-language-game.git
+git clone  https://github.com/Deirdre24/Setswana-Language-Learning-Game.git
 
 ## Navigate to the project directory:
 
