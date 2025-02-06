@@ -4,7 +4,7 @@ This repository contains a Python-based language learning game designed to help 
 
 ## Flowchart showing Game Logic
 
-![Alt text](https://github.com/Deirdre24/Setswana-Language-Learning-Game/blob/main/PYTHON%20SetswanaLearningGame%20Flowchart.pdf?fraw=true)
+![Alt text](https://github.com/Deirdre24/Setswana-Language-Learning-Game/blob/main/PYTHON%20SetswanaLearningGame%20Flowchart.pdf?fraw=true) 
 
 
 ## Features
