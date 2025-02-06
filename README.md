@@ -4,7 +4,7 @@ This repository contains a Python-based language learning game designed to help 
 
 ## Flowchart showing Game Logic
 
-![Alt text](PYTHON SetswanaLearningGame Flowchart.pd?fraw=true)
+![Alt text](PYTHON SetswanaLearningGame Flowchart.pdf?fraw=true)
 
 
 ## Features
