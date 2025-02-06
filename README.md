@@ -2,6 +2,11 @@
 
 This repository contains a Python-based language learning game designed to help users learn and practice Setswana, a Bantu language spoken in Southern Africa. The game focuses on improving vocabulary and understanding through interactive exercises with verbs and noun phrases.
 
+## Flowchart showing Game Logic
+
+![Alt text](https://github.com/Deirdre24/Litecoin-Trading-Data-Analysis-and-Forecasting/blob/main/Screenshot%20(445).png?raw=true)
+
+
 ## Features
 
 - Interactive Gameplay: Engaging exercises to test and improve Setswana language skills.
